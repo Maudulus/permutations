@@ -1,0 +1,10 @@
+Given the following arrays, write a program that creates all the different permutations, without any duplicates.
+
+['a', 'b', 'c']
+['d', 'e', 'f']
+['g', 'h', 'i']
+Permutations would follow this pattern:
+
+['a', 'd', 'g']
+['a', 'd', 'h']
+['a', 'd', 'i']
